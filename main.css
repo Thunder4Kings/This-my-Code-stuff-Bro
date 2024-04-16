@@ -1,0 +1,21 @@
+body{
+    background-color: darkblue;
+    color:#8B8B00;
+}
+nav{
+    height: 6000px;
+    width:200px;
+    float:left;
+    padding:5px;
+    line-height: 20px;
+}
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+#memeImage{
+    margin-right: 200px;
+}
+header{
+    text-align: center;
+}
